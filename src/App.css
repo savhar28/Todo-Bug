@@ -42,7 +42,7 @@
 }
 
 .todo-item.completed {
-  color: #888;
+    background-color: #E2F4C5;
 }
 
 .todo-checkbox {
